@@ -64,4 +64,4 @@ npm run dev
 
 ## Deployment
 
-The project is deployed on netlify and can be accessed [here](https://aeonaxy-task.netlify.app/).
+The project is deployed on netlify and can be accessed [here](https://aeonaxy-task-shivendra.netlify.app/).
