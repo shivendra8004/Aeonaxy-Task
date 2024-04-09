@@ -4,8 +4,6 @@ import Link from "next/link";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
 import { Eye, EyeOff } from "lucide-react";
-import { Button } from "../ui/button";
-import { LoginLink } from "@kinde-oss/kinde-auth-nextjs";
 const SignInForm = () => {
     const [showPassword, setShowPassword] = useState(false);
 
